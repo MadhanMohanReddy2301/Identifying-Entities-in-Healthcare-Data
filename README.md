@@ -1,4 +1,6 @@
-# Identifying Entities in Healthcare Data
+# MediTrack
+
+## Identifying Entities in Healthcare Data
 
 This project demonstrates the application of Natural Language Processing (NLP) techniques for identifying and extracting entities in healthcare data. Using a labeled corpus, it explores tasks such as tokenization, data preprocessing, exploratory data analysis (EDA), feature extraction, and model building with Conditional Random Fields (CRF). The goal is to identify diseases (D) and treatments (T) effectively.
 
